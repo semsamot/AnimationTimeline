@@ -1,6 +1,5 @@
 package info.semsamot.animationtimeline.sample;
 
-import android.animation.AnimatorSet;
 import android.animation.ObjectAnimator;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
